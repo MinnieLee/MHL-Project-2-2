@@ -1,0 +1,153 @@
+*{
+	font-family: 'Songti SC';
+	list-style: none;
+	text-decoration: none;
+	border-collapse: collapse;
+	margin:0px;
+	padding: 0px;
+	color: black;
+  }
+  
+  .container {
+	  height: 10vh;
+	  display: flex;
+	}
+
+	.container2 {
+		height: 16vh;
+	margin-left: 10px;
+		margin-top: 30vh;
+	  }
+
+	.container3 {
+		height: 16vh;
+		margin-left: 10px;
+			margin-top: 48vh;
+	}
+
+	body {
+		background-color: #fff;
+		color: #000;
+	}
+
+	  h1{
+		color: black;
+		position: left;
+		font-family :'Songti SC';
+		font-size: 43pt; 
+		margin-left:5px;
+		margin-top: 25px;
+		margin-bottom: 8px;
+	  }
+
+	  .header{
+		  width:1280px;
+		  margin:auto;
+		  background: white;
+		  margin-left:10px;
+	  }
+
+	  .nav{
+		  display:flex;
+		  font-size: 15pt;
+		  margin-top: 3px;
+		  margin-bottom: 3px;
+	  }
+
+	  .nav > li{
+		 margin-left: 25px;
+		  margin-right: 65px;
+	  }
+
+	  .box1{
+		background-color: black;
+	  height: 0.1vh;
+	  width: 111%;
+	 
+	  }
+
+	  .box2{
+		  background-color: white;
+		  height: 4vh;
+		  width: 100%;
+		  border-top: black;
+		 
+		 
+	  }
+
+	  
+
+	
+
+	  .head{
+		  width:1280px;
+		  background: white;
+		  display:flex;
+		 
+		  
+	  }
+	  .h2{
+			color: black;
+			font-size: 20pt;
+			margin-right: 10%;
+			display:flex;
+		font-family :'Songti SC';
+		
+	  }
+
+	  .h3{
+		color: black;
+		font-size: 20pt;
+		margin-right: 10%;
+		display:flex;
+	font-family :'Songti SC';
+	
+  }
+
+	  .ab{
+		  display:flex;
+	  }
+
+	  .ab > h2{
+		  margin-left:15px
+	  }
+	  
+	  .container {
+		height: 50vh;
+		display: flex;
+	  }
+
+	 
+	  .boxarticle{
+		background-color: rgb(204, 78, 78);
+		height: 28vh;
+		width: 88vh;
+		margin-left: 40px;
+	  }
+
+	  .boxarticle2{
+		background-color: rgb(204, 164, 78);
+		height: 16vh;
+		width: 88vh;
+		margin-left: 10px;
+	  }
+
+	  .p{
+		  color: black;
+	  font-size: 14pt;
+	  margin-right: 10%;
+	  margin-top: 5px;
+	  display:flex;
+  font-family :'Songti SC';
+	  }
+
+	  .box4{
+		background-color: black;
+	  height: 0.1vh;
+	  width: 98.7%;
+	  margin-top: 40vh;
+	  margin-left:10px;
+	  margin-right:10px;
+	  background-attachment: fixed;
+	  }
+	  
