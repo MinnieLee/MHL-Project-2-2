@@ -98,6 +98,12 @@
 	background-color: black;
 }
 
+.line1{
+	height:1px;
+	width: 90%;
+	background-color: black;
+}
+
 .line2{
 	height:1px;
 background-color: black;
@@ -225,5 +231,14 @@ background-color: black;
 		display:flex;
 		font-family :'Songti SC';
 
+	}
+
+	.box3{
+		background-color: white;
+		height: 4vh;
+		width: 85%;
+		border-top: black;
+		font-size: 26pt;
+		font-family: 'Songti SC';
 	}
 	  
